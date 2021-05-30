@@ -1,5 +1,7 @@
 # PAIA 9700 Analog Synthesizer Calibration Visualizer
 
+![Screenshot](/Pictures/UI.gif)
+
 The PAIA 9700s is a compact analog modular music synthesizer, available as a kit. It took me about 3 weeks to get everything constructed and installed in the case.
 
 After building the next task is to set the scale trimmers on both voltage controlled oscillators so that they stay in tune over the largest range of musical octaves. This process involves going “back and forth” between the scale pot and front tuning knob until you get both oscillators tuned. It’s a difficult task as it’s not always obvious how the oscillator tracking is moving around when you alter the scale.
