@@ -1,0 +1,55 @@
+G:\Work\cswavrec_src\Debug\cswavrec.exe
+G:\Work\cswavrec_src\Debug\cswavrec.pdb
+G:\Work\cswavrec_src\obj\Debug\ResolveAssemblyReference.cache
+G:\Work\cswavrec_src\obj\Debug\cswavrec.MainForm.resources
+G:\Work\cswavrec_src\obj\Debug\cswavrec.csproj.GenerateResource.Cache
+G:\Work\cswavrec_src\obj\Debug\cswavrec.exe
+G:\Work\cswavrec_src\obj\Debug\cswavrec.pdb
+G:\Work\cswavrec_src\Debug\Multimedia.UI.dll
+G:\Work\cswavrec_src\Debug\Toub.Sound.Midi.dll
+G:\Work\cswavrec_src\Debug\ZedGraph.dll
+G:\Work\cswavrec_src\Debug\ZedGraph.xml
+G:\Work\cswavrec_src\Debug\Multimedia.UI.pdb
+G:\Work\cswavrec_src\Debug\Toub.Sound.Midi.pdb
+G:\Work\cswavrec_src\Debug\Toub.Sound.Midi.xml
+G:\Work\cswavrec_src\Debug\de\ZedGraph.resources.dll
+G:\Work\cswavrec_src\Debug\es\ZedGraph.resources.dll
+G:\Work\cswavrec_src\Debug\fr\ZedGraph.resources.dll
+G:\Work\cswavrec_src\Debug\hu\ZedGraph.resources.dll
+G:\Work\cswavrec_src\Debug\it\ZedGraph.resources.dll
+G:\Work\cswavrec_src\Debug\ja\ZedGraph.resources.dll
+G:\Work\cswavrec_src\Debug\pt\ZedGraph.resources.dll
+G:\Work\cswavrec_src\Debug\ru\ZedGraph.resources.dll
+G:\Work\cswavrec_src\Debug\sk\ZedGraph.resources.dll
+G:\Work\cswavrec_src\Debug\sv\ZedGraph.resources.dll
+G:\Work\cswavrec_src\Debug\tr\ZedGraph.resources.dll
+G:\Work\cswavrec_src\Debug\zh-cn\ZedGraph.resources.dll
+G:\Work\cswavrec_src\Debug\zh-tw\ZedGraph.resources.dll
+G:\Work\cswavrec_src\obj\Debug\cswavrec.Results.resources
+F:\Projects\PAIA 9700s Tuner\cswavrec_src\Debug\cswavrec.exe
+F:\Projects\PAIA 9700s Tuner\cswavrec_src\Debug\cswavrec.pdb
+F:\Projects\PAIA 9700s Tuner\cswavrec_src\Debug\Multimedia.UI.pdb
+F:\Projects\PAIA 9700s Tuner\cswavrec_src\Debug\Toub.Sound.Midi.pdb
+F:\Projects\PAIA 9700s Tuner\cswavrec_src\Debug\Toub.Sound.Midi.xml
+F:\Projects\PAIA 9700s Tuner\cswavrec_src\Debug\ZedGraph.xml
+F:\Projects\PAIA 9700s Tuner\cswavrec_src\Debug\de\ZedGraph.resources.dll
+F:\Projects\PAIA 9700s Tuner\cswavrec_src\Debug\es\ZedGraph.resources.dll
+F:\Projects\PAIA 9700s Tuner\cswavrec_src\Debug\fr\ZedGraph.resources.dll
+F:\Projects\PAIA 9700s Tuner\cswavrec_src\Debug\hu\ZedGraph.resources.dll
+F:\Projects\PAIA 9700s Tuner\cswavrec_src\Debug\it\ZedGraph.resources.dll
+F:\Projects\PAIA 9700s Tuner\cswavrec_src\Debug\ja\ZedGraph.resources.dll
+F:\Projects\PAIA 9700s Tuner\cswavrec_src\Debug\pt\ZedGraph.resources.dll
+F:\Projects\PAIA 9700s Tuner\cswavrec_src\Debug\ru\ZedGraph.resources.dll
+F:\Projects\PAIA 9700s Tuner\cswavrec_src\Debug\sk\ZedGraph.resources.dll
+F:\Projects\PAIA 9700s Tuner\cswavrec_src\Debug\sv\ZedGraph.resources.dll
+F:\Projects\PAIA 9700s Tuner\cswavrec_src\Debug\tr\ZedGraph.resources.dll
+F:\Projects\PAIA 9700s Tuner\cswavrec_src\Debug\zh-cn\ZedGraph.resources.dll
+F:\Projects\PAIA 9700s Tuner\cswavrec_src\Debug\zh-tw\ZedGraph.resources.dll
+F:\Projects\PAIA 9700s Tuner\cswavrec_src\obj\Debug\cswavrec.csproj.AssemblyReference.cache
+F:\Projects\PAIA 9700s Tuner\cswavrec_src\obj\Debug\cswavrec.MainForm.resources
+F:\Projects\PAIA 9700s Tuner\cswavrec_src\obj\Debug\cswavrec.Results.resources
+F:\Projects\PAIA 9700s Tuner\cswavrec_src\obj\Debug\cswavrec.csproj.GenerateResource.cache
+F:\Projects\PAIA 9700s Tuner\cswavrec_src\obj\Debug\cswavrec.csproj.CoreCompileInputs.cache
+F:\Projects\PAIA 9700s Tuner\cswavrec_src\obj\Debug\cswavrec.csproj.CopyComplete
+F:\Projects\PAIA 9700s Tuner\cswavrec_src\obj\Debug\cswavrec.exe
+F:\Projects\PAIA 9700s Tuner\cswavrec_src\obj\Debug\cswavrec.pdb

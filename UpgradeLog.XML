@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="cswavrec">
+</Property><Property Name="Solution File" Value="G:\Work\cswavrec_src\cswavrec.sln">
+</Property><Property Name="Date" Value="Monday, September 14, 2009">
+</Property><Property Name="Time" Value="21:45 PM">
+</Property></Properties><Event ErrorLevel="0" Project="cswavrec" Source="cswavrec.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="cswavrec" Source="cswavrec.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="cswavrec.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="cswavrec.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="cswavrec" Source="cswavrec.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
